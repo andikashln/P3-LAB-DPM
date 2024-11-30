@@ -1,0 +1,73 @@
+export const dummyRecipes = [
+    {
+      id: '1',
+      name: 'Sepatu Hiking',
+      image: 'https://down-id.img.susercontent.com/file/id-11134207-7r98z-lnzi4gl7bfup86.webp',
+      ingredients: ['Sepatu gunung dari The North Face (TNF) dikenal karena kualitas dan ketahanannya yang cocok untuk berbagai aktivitas outdoor, seperti hiking, trekking, dan mendaki gunung.'],
+      steps: [],
+    },
+    {
+      id: '2',
+      name: 'Jacket',
+      image: 'https://down-id.img.susercontent.com/file/sg-11134201-22100-glhabmbcu6iv2d@resize_w450_nl.webp',
+      ingredients: ['Jaket gunung The North Face (TNF) dikenal karena kualitas tinggi, durabilitas, dan teknologi canggih untuk menghadapi berbagai kondisi cuaca ekstrem. '],
+      steps: [],
+    },
+    {
+      id: '3',
+      name: 'Celana',
+      image: 'https://down-id.img.susercontent.com/file/id-11134207-7r98w-luhoht59v0d977.webphttps://down-id.img.susercontent.com/file/id-11134207-7r98w-luhoht59v0d977.webp',  
+      ingredients: ['Celana hiking dari The North Face (TNF) dirancang untuk memberikan kenyamanan, perlindungan, dan performa terbaik saat menjelajah alam bebas.'],
+      steps: [],
+    },
+    {
+      id: '4',
+      name: 'Caril',
+      image: 'https://images.tokopedia.net/img/cache/900/hDjmkQ/2024/1/25/b12773fe-bba0-4970-bbdd-5a2c86162a8d.jpg', 
+      ingredients: ['Carrier (tas ransel) dari The North Face (TNF) dirancang untuk memberikan kenyamanan dan kapasitas yang optimal saat digunakan untuk hiking, trekking, atau perjalanan panjang.'],
+      steps: [],
+    },
+    {
+      id: '5',
+      name: 'Backpack',
+      image: 'https://down-id.img.susercontent.com/file/id-11134207-7r98q-lzakof28dp1k1a.webp',
+      ingredients: ['Backpack dari The North Face (TNF) menggunakan berbagai jenis bahan yang dirancang untuk memberikan kekuatan, ketahanan, kenyamanan, dan perlindungan terhadap kondisi alam yang ekstrem.'],
+      steps: [],
+    },
+    {
+      id: '6',
+      name: 'Unisex Small Shoulder Bag',
+      image: 'https://down-id.img.susercontent.com/file/id-11134207-7r98t-lxkmvtecqlml0c.webp',
+      ingredients: ['tas bahu kecil yang terbuat dari bahan tahan lama seperti nylon ripstop dan polyester, dengan kapasitas sekitar 2-6 liter. Dilengkapi dengan kompartemen utama, kantong tambahan, dan tali bahu yang empuk, tas ini cocok untuk penggunaan sehari-hari dan kegiatan outdoor ringan. Fitur tahan air (DWR) dan desain yang ringkas menjadikannya pilihan ideal untuk membawa barang-barang esensial dengan mudah.'],
+      steps: [],
+    },
+    {
+      id: '7',
+      name: 'Recycled 66 Classic Hat',
+      image: 'https://down-id.img.susercontent.com/file/id-11134207-7quky-lhhuf4ovsall02.webp', 
+      ingredients: ['The North Face Recycled 66 Classic Hat adalah topi gaya klasik yang dibuat dari polyester daur ulang (dan kadang-kadang katun daur ulang), menjadikannya ramah lingkungan. Topi ini memiliki desain visor melengkung untuk perlindungan dari sinar matahari dan dilengkapi dengan pengaturan ukuran yang dapat disesuaikan di bagian belakang. Cocok untuk kegiatan luar ruangan, perjalanan santai, atau sebagai aksesori gaya sehari-hari. Tersedia dalam berbagai warna dengan logo bordir khas The North Face di bagian depan.'],
+      steps: [],
+    },
+    {
+      id: '8',
+      name: 'New Sangro Dryvent Jacket',
+      image: 'https://down-id.img.susercontent.com/file/id-11134207-7quky-li9nohxax17u67.webp',
+      ingredients: ['The North Face New Sangro DryVent Jacket adalah jaket tahan air dan angin yang dirancang untuk menjaga kenyamanan dan perlindungan di segala kondisi cuaca. Kombinasi material tahan lama, teknologi DryVent™, dan desain serbaguna menjadikannya pilihan sempurna untuk aktivitas outdoor dan penggunaan harian.'],
+      steps: [],
+    },
+    {
+      id: '9',
+      name: ' Antora Rain Bucket',
+      image: 'https://down-id.img.susercontent.com/file/id-11134201-7r992-lv2sz55wsyav8f.webp',
+      ingredients: ['The North Face Antora Rain Bucket adalah topi ember ringan dan ramah lingkungan yang dirancang untuk memberikan perlindungan dari hujan, terbuat dari bahan daur ulang dan dilengkapi dengan perlindungan tahan air.'],
+      steps: [],
+    },
+    {
+      id: '10',
+      name: 'Tshirt',
+      image: 'https://down-id.img.susercontent.com/file/id-11134201-7r98r-lp1sd8kzyb9q26@resize_w450_nl.webp',
+      ingredients: ['TNF dirancang untuk kenyamanan, daya tahan, dan fungsionalitas dengan bahan berkualitas dan desain ramah lingkungan.'],
+      steps: [],
+    },
+  ];
+  
